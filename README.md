@@ -14,9 +14,6 @@ Proposed Model
 Hyperparameter Optimization
 
 Explainability and Feature Ranking
-
-Federated Learning
-
 ## Objectives
 The main objective of this research is to build an automated load forecasting tool for smart grid systems that can handle the dynamic challenges in energy demands and attain the maximum outputs. By integrating several advanced methodologies, the complete framework is developed that can perform the forecasting tasks reliably and efficiently. 
 
