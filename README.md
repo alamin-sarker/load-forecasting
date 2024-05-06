@@ -7,9 +7,7 @@ Objective
 
 Proposed Diagram
 
-Datasets
-
-Augmentation
+Datasets and Augmentation
 
 Proposed Model
 
@@ -25,5 +23,20 @@ The main objective of this research is to build an automated load forecasting to
 ## Proposed Diagram
 
 ![methodology](https://github.com/alamin-sarker/load-forecasting/assets/47381244/4923c55a-5f5e-4ee6-bbbd-3ca09d303b47)
+
+## Datasets and Augmentation
+In this study, four distinct datasets are utilized: the Panama Case Study Dataset, the Daily Electricity Price and Demand Dataset (Victoria, Australia), the Household Electric Power Consumption Dataset, and the Australia Load Dataset. 
+
+## Datasets and Augmentation
+In this study, four distinct datasets are utilized: the Panama Case Study Dataset (Madrid, 2021), the Daily Electricity Price and Demand Dataset (Victoria, Australia) (Kozlov, 2020), the Household Electric Power Consumption Dataset (LEARNING, 2016), and the Australia Load Dataset (Liu, 2021). 
+
+Three augmentation techniques, including jittering, magnitude wrapping, and window slicing, are employed to increase the sample size and balance the dataset.
+![image](https://github.com/alamin-sarker/load-forecasting/assets/47381244/279e0415-efa4-4e17-a8a9-c07d60023a70)
+![image](https://github.com/alamin-sarker/load-forecasting/assets/47381244/949f7f17-7546-4c49-8359-8cd323ad53bf)
+![image](https://github.com/alamin-sarker/load-forecasting/assets/47381244/f2928558-d2bf-4198-8c3a-1507618e20cc)
+
+
+
+
 
 
