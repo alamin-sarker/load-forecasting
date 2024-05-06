@@ -24,7 +24,7 @@ In this study, four distinct datasets are utilized: the Panama Case Study Datase
 Three augmentation techniques, including jittering, magnitude wrapping, and window slicing, are employed to increase the sample size and balance the dataset.
 
 ## Proposed Model and Hyperparameter Optimization
-<a><href="<a><href="model"></a>">
+<a><href="model"></a>
 ![ProposedModel drawio](https://github.com/alamin-sarker/load-forecasting/assets/47381244/69a99da0-5988-4c5c-90cb-a082cbb04fb8)
 
 
